@@ -1,1 +1,1 @@
-# blogNaverPicsDownloader
+Enter the url to download pics
